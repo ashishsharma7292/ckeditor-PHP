@@ -1,4 +1,4 @@
-# Project Name: CKEditor 4 Image Upload using PHP with Bootstrap Grid Integration
+# CKEditor 4 Image Upload using PHP with Bootstrap Grid Integration
 
 ## Overview
 This project aims to enhance the functionality of CKEditor 4 by integrating features for image upload and Bootstrap grid system. CKEditor 4 is a powerful WYSIWYG text editor designed to simplify web content creation. By incorporating image upload functionality and Bootstrap grid system, this project enables users to seamlessly upload and manage images within CKEditor 4 while also providing the ability to create responsive layouts using Bootstrap's grid system.
